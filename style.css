@@ -48,3 +48,15 @@ margin: 5%;
 .div-three{
     display: flex;
 }
+.div-four{
+    width: 80%; padding: 40px; margin: 15px; box-shadow: 5px 5px 15px gray; border-radius: 20px;
+}
+.para-four{
+    font-size: 20px; font-family: 'Courier New', Courier, monospace;
+}
+.img-four{
+    width: 400px; height: 300px; border-radius: 15px;
+}
+.div-five{
+    display: flex;
+}
