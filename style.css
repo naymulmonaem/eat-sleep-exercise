@@ -39,3 +39,12 @@ margin: 5%;
 .img-two{
     width: 500px; height: 300px; 
 }
+#head-two{
+    text-align: center; font-size: 30px; font-weight: 700; 
+}
+.para-two{
+    text-align: center; font-size: 20px; font-weight: 400;
+}
+.div-three{
+    display: flex;
+}
