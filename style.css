@@ -1,0 +1,41 @@
+.head-one{
+font-size: 40px;
+margin: 5%;
+}
+.first-section{
+    display: flex; 
+    margin-left: 5% ;
+    margin-top: 15%;
+    margin-bottom: 15%;
+}
+.div-one{
+    width: 50%;
+}
+.anchor-one{
+    background-image: linear-gradient(yellow, orange); border-radius: 7px; font-weight: 800; font-size: 20px;
+    margin: 10px 20px; padding: 10px 30px; text-decoration: none;
+} 
+.para-one{
+    font-size: 20px; margin-bottom: 50px;
+}
+.span-one{
+    color: salmon;
+}
+#div-id-one{
+    background-image: url(images/shapes/Group\ 8447.png);
+    background-repeat: no-repeat; background-size: 100% 100%;
+}
+.div-second{
+    width: 50%; padding: 0% 5%
+}
+#anchor-id{
+    background-image: linear-gradient(orange, violet);
+}
+#second-section-id{
+    background-image: url(images/shapes/Frame\ 57.jpg);
+    background-repeat: no-repeat; margin-top: 50px;
+    background-size: cover; display: flex; padding:none; padding: 5%
+}
+.img-two{
+    width: 500px; height: 300px; 
+}
