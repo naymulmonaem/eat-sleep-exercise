@@ -1,6 +1,9 @@
 .head-one:hover{
     color: rgb(29, 27, 27); background-color: violet; font-weight: 900; font-size: 50px;
 }
-p:focus-visible{
+p:focus{
     color: rosybrown; background-color: pink;
 }
+a:hover{color: rosybrown; background-color: pink;
+}
+
